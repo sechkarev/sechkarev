@@ -12,7 +12,7 @@ I mostly develop mobile apps (native **Android** & **Kotlin Multiplatform**), an
 
 ## Smaller Games
 
-🏓 **[Ergodic Pong Review](https://ultra-v1olence.itch.io/ergodic-pong-review)** – my attempt to write an [ergodic literary work](https://en.wikipedia.org/wiki/Ergodic_literature): it's a text about the videogame Pong, and you have to play Pong while reading it, so the longer you stay in the game the more you learn. Tech stack: **Unity, C#**. Source code available [here](https://github.com/sechkarev/PongReview).
+🏓 **[Ergodic Pong Review](https://ultra-v1olence.itch.io/ergodic-pong-review)** – my attempt to create an [ergodic literary work](https://en.wikipedia.org/wiki/Ergodic_literature): it's a text about the videogame Pong, and you have to play Pong while reading it, so the longer you stay in the game the more you learn. Tech stack: **Unity, C#**. Source code available [here](https://github.com/sechkarev/PongReview).
 
 ⌚ **[Watch Out! For Cars](https://github.com/sechkarev/tizen-cars)** – my 2016 game for Samsung Gear S2 watches (Tizen OS) where you control a car by rotating the bezel of the watch. Tech stack: **Tizen SDK, HTML, CSS, JavaScript**. Unavailable for download anymore, since Tizen App Store got shut down in 2025 😞
 
