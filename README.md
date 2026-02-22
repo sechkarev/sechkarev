@@ -2,7 +2,7 @@
 
 I'm Vladimir, a software developer with 8+ years of commercial work experience. I am currently working at [Next Lotto](https://www.nextlotto.de/).
 
-I mostly develop mobile apps (native **Android** & **Kotlin Multiplatform**), and I've always been into video games as well (I worked as a [game journalist](https://stopgame.ru/user/Ultra_V1olence/pubs) for a while and even wrote a book about game localisation). I am a man of many passions, and this GitHub is where my side ventures come to life 👨‍💻✨
+I mostly develop mobile apps (native **Android** & **Kotlin Multiplatform**), and I've always been into video games as well (I worked as a [game journalist](https://stopgame.ru/user/Ultra_V1olence/pubs) for a while and even wrote a book about game localisation). I have many passions, and this GitHub is where my side ventures come to life 👨‍💻✨
 
 ## My Projects
 
