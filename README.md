@@ -21,6 +21,7 @@ I mostly develop mobile apps (native **Android** & **Kotlin Multiplatform**), an
 Want to invite me to an interview or just have a chat? Here's how to reach me:
 
 **E-mail:** sechkarevs@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/vladimir-sechkarev/
 
 I'm looking for opportunities in mobile development and/or game dev where I could have fun and create something meaningful 🌱
