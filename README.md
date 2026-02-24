@@ -2,7 +2,7 @@
 
 I'm Vladimir, a software developer with 8+ years of commercial work experience. I am currently working at [Next Lotto](https://www.nextlotto.de/).
 
-I mostly develop mobile apps (native **Android** & **Kotlin Multiplatform**) and game-like interactive experiences. This GitHub is a collection of my side projects and technical experiments with various (mostly mobile) SDKs.
+I build mobile products with a strong focus on native Android and Kotlin Multiplatform. In addition to my professional work, I explore interactive and game-like experiences, which helps me think deeply about user engagement and product feedback loops. This GitHub is a collection of my side projects and technical experiments with various (mostly mobile) SDKs.
 
 ## My Projects
 
